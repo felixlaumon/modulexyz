@@ -1,5 +1,7 @@
 # modulexyz
 
+[![Build Status](https://travis-ci.org/felixlaumon/modulexyz.svg?branch=master)](https://travis-ci.org/felixlaumon/modulexyz)
+
 Opinionated python module template
 
 ## Setup
