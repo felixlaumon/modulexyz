@@ -1,0 +1,7 @@
+-r requirements.txt
+mock
+numpydoc
+pep8==1.6.2
+pytest
+pytest-cov
+pytest-pep8
